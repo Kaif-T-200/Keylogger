@@ -34,9 +34,6 @@ Keystrokes are saved to ```keylog.txt``` in the same directory.
 
 ## 👤 Author
 
-   LinkedIn - https://www.linkedin.com/in/kaif-tarasgar-0b5425326/
+[LinkedIn](https://www.linkedin.com/in/kaif-tarasgar-0b5425326/) • [Twitter/X](https://x.com/Kaif_T_200)
 
-   Twitter/X - https://x.com/Kaif_T_200
---
-
-  Made with ❤️ by Kaif Tarasgar
+# Made with ❤️ by Kaif Tarasgar in Python
